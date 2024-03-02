@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f599e7&lines=Hello+,+my+name+is+Ksenia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=a88fff&lines=Hello+,+my+name+is+Ksenia)](https://git.io/typing-svg)
 <!--
 **Zakharka2005/Zakharka2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
