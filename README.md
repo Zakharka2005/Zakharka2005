@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=65ae37&lines=Hello+,+my+name+is+Ksenia)](https://git.io/typing-svg)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!--
 **Zakharka2005/Zakharka2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
